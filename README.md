@@ -7,7 +7,7 @@
 - 邮箱：jinchao0220@gmail.com
 - 期望城市：北京、杭州
 - 期望职位：软件开发工程师
-- 期望薪资: 22K ~ 28K
+- 期望薪资: 20K ~ 25K
 - GitHub：http://github.com/todayqq
 - 技术专栏：https://laravel-china.org/angkee
 
@@ -27,8 +27,8 @@
 - 3 年软件开发经验，积累了较多的业务和开发经验，能独立完成一个 Web 应用的开发
 - 熟悉软件开发流程，软件设计模式，具备代码洁癖、 Code Review、项目复盘、技术总结积累等良好习惯
 - 有良好的学习能力、沟通能力、解决问题能力，拥有较强的工作责任感、有良好的沟通能力和团队合作精神
-- 拥有 Geek 精神，活跃于 Laravel-china、SegmentFault、掘金等技术论坛
-- 热爱开源，在 GitHub 上有 Notification、Lardmin 等开源项目
+- 拥有 Geek 精神，活跃于 Laravel-china、SegmentFault等技术论坛
+- 热爱开源，在 GitHub 上有 Notification、Lardmin 等开源项目、维护过 EasyWechat 扩展包
 
 ## 工作经历
 
@@ -104,10 +104,9 @@
 - 2016 年获得 TCL 技术研发团队最佳成员称号，KPI 绩效评分为 S 级
 - 技术专栏文章多次被技术论坛转载，也多次登上精选文章
 
-## 技术文章
+## 技术专栏
 
 - [让你的网站秒配 HTTPS 证书](https://laravel-china.org/articles/5883/give-your-website-a-https-certificate-per-second)
-- [Laravel、PHPer 面试可能会遇到的问题及答案](https://laravel-china.org/articles/6201/questions-and-answers-that-laravel-and-phper-interviews-may-encounter)
 - [程序员写作的必备技能 Markdown](https://laravel-china.org/articles/6946/the-necessary-skills-for-programmers-to-write-markdown)
 - [13 个快速构建 Laravel 后台的扩展包(译文)](https://laravel-china.org/articles/7006/13-expansion-packages-that-quickly-build-the-laravel-background)
 
